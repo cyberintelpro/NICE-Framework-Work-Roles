@@ -42,6 +42,8 @@ Collect and Operate (CO): Provides specialized denial and deception operations a
 Investigate (IN): Investigates cybersecurity events or crimes related to information technology (IT) systems, networks, and digital evidence.
 
 - Cyber Investigation (INV) Applies tactics, techniques, and procedures for a full range of investigative tools and processes to include, but not limited to, interview and interrogation techniques, surveillance, counter surveillance, and surveillance detection, and appropriately balances the benefits of prosecution versus intelligence gathering.
+  
+  - [Cyber Crime Investigator (IN-INV-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Investigate%20-IN/Cyber%20Investigation%20-INV/Cyber%20Crime%20Investigator.md): Identifies, collects, examines, and preserves evidence using controlled and documented analytical and investigative techniques.
 
 - Digital Forensics (FOR) Collects, processes, preserves, analyzes, and presents computer-related evidence in support of network vulnerability mitigation and/or crimina
 
