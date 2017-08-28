@@ -21,14 +21,56 @@ Conceptualizes, designs, procures, and/or builds secure information technology (
 ## Operate and Maintain (OM):
 Provides the support, administration, and maintenance necessary to ensure effective and efficient information technology (IT) system performance and security.
 
+- Data Administration (DTA) Develops and administers databases and/or data management systems that allow for the storage, query, protection, and utilization of data.
+
+- Knowledge Management (KMG) Manages and administers processes and tools that enable the organization to identify, document, and access intellectual capital and information content.
+
+- Customer Service and Technical Support (STS) Addresses problems; installs, configures, troubleshoots, and provides maintenance and training in response to customer requirements or inquiries (e.g., tiered-level customer support). Typically provides initial incident information to the Incident Response (IR) Specialty.
+
+- Network Services (NET) Installs, configures, tests, operates, maintains, and manages networks and their firewalls, including hardware (e.g., hubs, bridges, switches, multiplexers, routers, cables, proxy servers, and protective distributor systems) and software that permit the sharing and transmission of all spectrum transmissions of information to support the security of information and information systems.
+
+- Systems Administration (ADM) Installs, configures, troubleshoots, and maintains server configurations(hardware and software) to ensure their confidentiality, integrity, and availability. Manages accounts, firewalls, and patches. Responsible for access control, passwords, and account creation and administration.
+
+- Systems Analysis (ANA) Studies an organization's current computer systems and procedures, and designs information systems solutions to help the organization operate more securely, efficiently, and effectively. Brings business and information technology (IT) together by understanding the needs and limitations of both.
+
 ## Oversee and Govern (OV):
 Provides leadership, management, direction, or development and advocacy so the organization may effectively conduct cybersecurity work.
+
+- Legal Advice and Advocacy (LGA): Provides legally sound advice and recommendations to leadership and staff on a variety of relevant topics within the pertinent subject domain. Advocates legal and policy changes, and makes a case on behalf of client via a wide range of written and oral work products, including legal briefs and proceedings.
+
+- Training, Education, and Awareness (TEA):  Conducts training of personnel within pertinent subject domain. Develops, plans, coordinates, delivers and/or evaluates training courses, methods, and techniques as appropriate.
+
+- Cybersecurity Management (MGT): Oversees the cybersecurity program of an information system or network, including managing information security implications within the organization, specific program, or other area of responsibility, to include strategic, personnel, infrastructure, requirements, policy enforcement, emergency planning, security awareness, and other resources.
+
+- Strategic Planning and Policy (SPP) Develops policies and plans and/or advocates for changes in policy that support organizational cyberspace initiatives or required changes/enhancements.
+
+- Executive Cyber Leadership (EXL): Supervises, manages, and/or leads work and workers performing cyber and cyber-related and/or cyber operations work.
+
+- Program/Project Management and Acquisition (PMA): Applies knowledge of data, information, processes, organizational interactions, skills, and analytical expertise, as well as systems, networks, and information exchange capabilities to manage acquisition programs. Executes duties governing hardware, software, and information system acquisition programs and other program management policies. Provides direct support for acquisitions that use information technology (IT) (including National Security Systems), applying IT-related laws and policies, and provides IT-related guidance throughout the total acquisition life cycle.
 
 ## Protect and Defend (PR):
 Identifies, analyzes, and mitigates threats to internal information technology (IT) systems and/or networks.
 
+- Cyber Defense Analysis (CDA): Uses defensive measures and information collected from a variety of sources to identify, analyze, and report events that occur or might occur within the network to protect information, information systems, and networks from threats. Cyber Defense
+
+- Infrastructure Support (INF): Tests, implements, deploys, maintains, reviews, and administers the infrastructure hardware and software that are required to effectively manage the computer network defense service provider network and resources. Monitors network to actively remediate unauthorized activities.
+
+- Incident Response (CIR) Responds to crises or urgent situations within the pertinent domain to mitigate immediate and potential threats. Uses mitigation, preparedness, and response and recovery approaches, as needed, to maximize survival of life, preservation of property, and information security. Investigates and analyzes all relevant response activities.
+
+- Vulnerability Assessment and Management (VAM): Conducts assessments of threats and vulnerabilities; determines deviations from acceptable configurations, enterprise or local policy; assesses the level of risk; and develops and/or recommends appropriate mitigation countermeasures in operational and nonoperational situations.
+
 ## Analyze (AN): 
 Performs highly-specialized review and evaluation of incoming cybersecurity information to determine its usefulness for intelligence.
+
+- Threat Analysis (TWA): Identifies and assesses the capabilities and activities of cybersecurity criminals or foreign intelligence entities; produces findings to help initialize or support law enforcement and counterintelligence investigations or activities.
+
+- Exploitation Analysis (EXP): Analyzes collected information to identify vulnerabilities and potential for exploitation.
+
+- All-Source Analysis (ASA) Analyzes threat information from multiple sources, disciplines, and agencies across the Intelligence Community. Synthesizes and places intelligence information in context; draws insights about the possible implications.
+
+- Targets (TGT) Applies current knowledge of one or more regions, countries, non-state entities, and/or technologies.
+
+- Language Analysis (LNG) Applies language, cultural, and technical expertise to support information collection, analysis, and other cybersecurity activities.
 
 ## Collect and Operate (CO):
 Provides specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence.
