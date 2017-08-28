@@ -12,33 +12,33 @@ Conceptualizes, designs, procures, and/or builds secure information technology (
 
 - Software Development (DEV): Develops and writes/codes new (or modifies existing) computer applications, software, or specialized utility programs following software assurance best practices.
 
-	- Software Developer (SP-DEV-001): Develops, creates, maintains, and writes/codes new (or modifies existing) computer applications, software, or specialized utility programs.
+	- [Software Developer (SP-DEV-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Software%20Development%20-DEV/Software%20Developer.md): Develops, creates, maintains, and writes/codes new (or modifies existing) computer applications, software, or specialized utility programs.
 	
-	- Secure Software Assessor (SP-DEV-002): Analyzes the security of new or existing computer applications, software, or specialized utility programs and provides actionable results.
+	- [Secure Software Assessor (SP-DEV-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Software%20Development%20-DEV/Secure%20Software%20Assessor.md): Analyzes the security of new or existing computer applications, software, or specialized utility programs and provides actionable results.
 
 - Systems Architecture (ARC): Develops system concepts and works on the capabilities phases of the systems development life cycle; translates technology and environmental conditions (e.g., law and regulation) into system and security designs and processes.
 
-	- Enterprise Architect (SP-ARC-001): Develops and maintains business, systems, and information processes to support enterprise mission needs; develops information technology (IT) rules and requirements that describe baseline and target architectures.
+	- [Enterprise Architect (SP-ARC-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Systems%20Architecture%20-ARC/Enterprise%20Architect.md): Develops and maintains business, systems, and information processes to support enterprise mission needs; develops information technology (IT) rules and requirements that describe baseline and target architectures.
 
-	- Security Architect (SP-ARC-002): Ensures that the stakeholder security requirements necessary to protect the organization’s mission and business processes are adequately addressed in all aspects of enterprise architecture including reference models, segment and solution architectures, and the resulting systems supporting those missions and business processes.
+	- [Security Architect (SP-ARC-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Systems%20Architecture%20-ARC/Security%20Architect.md): Ensures that the stakeholder security requirements necessary to protect the organization’s mission and business processes are adequately addressed in all aspects of enterprise architecture including reference models, segment and solution architectures, and the resulting systems supporting those missions and business processes.
 
 - Technology R&D (TRD): Conducts technology assessment and integration processes; provides and supports a prototype capability and/or evaluates its utility.
 
-	- Research & Development Specialist (SP-TRD-001): Conducts software and systems engineering and software systems research to develop new capabilities, ensuring cybersecurity is fully integrated. Conducts comprehensive technology research to evaluate potential vulnerabilities in cyberspace systems.
+	- [Research & Development Specialist (SP-TRD-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Technology%20R-D%20-TRD/Research%20and%20Development%20Specialist.md): Conducts software and systems engineering and software systems research to develop new capabilities, ensuring cybersecurity is fully integrated. Conducts comprehensive technology research to evaluate potential vulnerabilities in cyberspace systems.
 
 - Systems Requirements Planning (SRP): Consults with customers to gather and evaluate functional requirements and translates these requirements into technical solutions. Provides guidance to customers about applicability of information systems to meet business needs.
 
-	- Systems Requirements Planner (SP-SRP-001): Consults with customers to evaluate functional requirements and translate functional requirements into technical solutions.
+	- [Systems Requirements Planner (SP-SRP-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Systems%20Requirements%20Planning%20-SRP/Systems%20Requirements%20Planner.md): Consults with customers to evaluate functional requirements and translate functional requirements into technical solutions.
 
 - Test and Evaluation (TST): Develops and conducts tests of systems to evaluate compliance with specifications and requirements by applying principles and methods for costeffective planning, evaluating, verifying, and validating of technical, functional, and performance characteristics (including interoperability) of systems or elements of systems incorporating IT.
 
-	- System Testing and Evaluation Specialist (SP-TST-001): Plans, prepares, and executes tests of systems to evaluate results against specifications and requirements as well as analyze/report test results.
+	- [System Testing and Evaluation Specialist (SP-TST-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Test%20and%20Evaluation%20-TST/System%20Test%20%26%20Evaluation%20Specialist.md): Plans, prepares, and executes tests of systems to evaluate results against specifications and requirements as well as analyze/report test results.
 
 - Systems Development (SYS): Works on the development phases of the systems development life cycle.
 
-	- Information Systems Security Developer (SP-SYS-001): Designs, develops, tests, and evaluates information system security throughout the systems development life cycle.
+	- [Information Systems Security Developer (SP-SYS-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Systems%20Development%20-SYS/Information%20Systems%20Security%20Developer.md): Designs, develops, tests, and evaluates information system security throughout the systems development life cycle.
 
-	- Systems Developer (SP-SYS-002): Designs, develops, tests, and evaluates information systems throughout the systems development life cycle.
+	- [Systems Developer (SP-SYS-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Systems%20Development%20-SYS/Systems%20Developer.md): Designs, develops, tests, and evaluates information systems throughout the systems development life cycle.
 
 
 ## Operate and Maintain (OM):
