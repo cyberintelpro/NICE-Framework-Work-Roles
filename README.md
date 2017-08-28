@@ -1,6 +1,7 @@
 # NICE Framework Workforce Categories, Specialty Areas, and Work Roles
 
-### Securely Provision (SP): Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
+## Securely Provision (SP): 
+Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
 
 - Risk Management (RSK) Oversees, evaluates, and supports the documentation, validation, assessment, and authorization processes necessary to assure that existing and new information technology (IT) systems meet the organization's cybersecurity and risk requirements. Ensures appropriate treatment of risk, compliance, and assurance from internal and external perspectives.
 
@@ -17,17 +18,20 @@
 - Systems Development (SYS): Works on the development phases of the systems development life cycle.
 
 
+## Operate and Maintain (OM):
+Provides the support, administration, and maintenance necessary to ensure effective and efficient information technology (IT) system performance and security.
 
+## Oversee and Govern (OV):
+Provides leadership, management, direction, or development and advocacy so the organization may effectively conduct cybersecurity work.
 
-Operate and Maintain (OM): Provides the support, administration, and maintenance necessary to ensure effective and efficient information technology (IT) system performance and security.
+## Protect and Defend (PR):
+Identifies, analyzes, and mitigates threats to internal information technology (IT) systems and/or networks.
 
-Oversee and Govern (OV): Provides leadership, management, direction, or development and advocacy so the organization may effectively conduct cybersecurity work.
+## Analyze (AN): 
+Performs highly-specialized review and evaluation of incoming cybersecurity information to determine its usefulness for intelligence.
 
-Protect and Defend (PR): Identifies, analyzes, and mitigates threats to internal information technology (IT) systems and/or networks.
-
-Analyze (AN): Performs highly-specialized review and evaluation of incoming cybersecurity information to determine its usefulness for intelligence.
-
-Collect and Operate (CO): Provides specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence.
+## Collect and Operate (CO):
+Provides specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence.
 
 - Collection Operations (CLO): Executes collection using appropriate strategies and within the priorities established through the collection management process. 
 
