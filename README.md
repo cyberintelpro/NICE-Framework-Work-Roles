@@ -1,10 +1,6 @@
-# NICE-Framework-Work-Roles
-NICE Framework Work Roles
+# NICE Framework Workforce Categories, Specialty Areas, and Work Roles
 
-
-NICE Framework Workforce Categories, Specialty Areas, and Work Roles
-
-Securely Provision (SP): Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
+## Securely Provision (SP): Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
 
 - Risk Management (RSK) Oversees, evaluates, and supports the documentation, validation, assessment, and authorization processes necessary to assure that existing and new information technology (IT) systems meet the organization's cybersecurity and risk requirements. Ensures appropriate treatment of risk, compliance, and assurance from internal and external perspectives.
 
