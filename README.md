@@ -108,7 +108,8 @@ develop best practices and facilitate organizational support for achieving objec
   
   - [Cyber Operator (CO-OPS-001)[https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Cyber%20Operations%20-OPS/Cyber%20Operator.md]: Conducts collection, processing, and/or geolocation of systems to exploit, locate, and/or track targets of interest. Performs network navigation, tactical forensic analysis, and, when directed, executes on-net operations.
 
-Investigate (IN): Investigates cybersecurity events or crimes related to information technology (IT) systems, networks, and digital evidence.
+## Investigate (IN):
+Investigates cybersecurity events or crimes related to information technology (IT) systems, networks, and digital evidence.
 
 - Cyber Investigation (INV) Applies tactics, techniques, and procedures for a full range of investigative tools and processes to include, but not limited to, interview and interrogation techniques, surveillance, counter surveillance, and surveillance detection, and appropriately balances the benefits of prosecution versus intelligence gathering.
   
