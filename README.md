@@ -44,3 +44,7 @@ Investigate (IN): Investigates cybersecurity events or crimes related to informa
 - Cyber Investigation (INV) Applies tactics, techniques, and procedures for a full range of investigative tools and processes to include, but not limited to, interview and interrogation techniques, surveillance, counter surveillance, and surveillance detection, and appropriately balances the benefits of prosecution versus intelligence gathering.
 
 - Digital Forensics (FOR) Collects, processes, preserves, analyzes, and presents computer-related evidence in support of network vulnerability mitigation and/or crimina
+
+  - [Law Enforcement/Counterintelligence Forensics Analyst (IN-FOR-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Investigate%20-IN/Digital%20Forensics%20-FOR/Law%20Enforcement%20Counterintelligence%20Forensics%20Analyst.md): Conducts detailed investigations on computer-based crimes establishing documentary or physical evidence, to include digital media and logs associated with cyber intrusion incidents.
+
+  - [Cyber Defense Forensics Analyst (IN-FOR-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Investigate%20-IN/Digital%20Forensics%20-FOR/Cyber%20Defense%20Forensics%20Analyst.md): Analyzes digital evidence and investigates computer security incidents to derive useful information in support of system/network vulnerability mitigation.
