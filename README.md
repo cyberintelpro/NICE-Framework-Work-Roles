@@ -81,7 +81,7 @@ Provides leadership, management, direction, or development and advocacy so the o
 
 - Training, Education, and Awareness (TEA):  Conducts training of personnel within pertinent subject domain. Develops, plans, coordinates, delivers and/or evaluates training courses, methods, and techniques as appropriate.
 
-	- Cyber Instructional Curriculum Developer OV-TEA-001 Develops, plans, coordinates, and evaluates cyber training/education courses, methods, and techniques based on instructional needs.
+	- [Cyber Instructional Curriculum Developer (OV-TEA-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Oversee%20and%20Govern%20-OV/Training-%20Education-%20and%20Awareness%20-TEA/Cyber%20Instructional%20Curriculum%20Developer.md): Develops, plans, coordinates, and evaluates cyber training/education courses, methods, and techniques based on instructional needs.
 	
 	- Cyber Instructor OV-TEA-002 Develops and conducts training or education of personnel within cyber domain. 
 
