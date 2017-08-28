@@ -33,4 +33,14 @@ Analyze (AN): Performs highly-specialized review and evaluation of incoming cybe
 
 Collect and Operate (CO): Provides specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence.
 
+- Collection Operations (CLO): Executes collection using appropriate strategies and within the priorities established through the collection management process. 
+
+- Cyber Operational Planning (OPL): Performs in-depth joint targeting and cybersecurity planning process. Gathers information and develops detailed Operational Plans and Orders supporting requirements. Conducts strategic and operational-level planning across the full range of operations for integrated information and cyberspace operations.
+
+- Cyber Operations (OPS): Performs activities to gather evidence on criminal or foreign intelligence entities to mitigate possible or real-time threats, protect against espionage or insider threats, foreign sabotage, international terrorist activities, or to support other intelligence activities.
+
 Investigate (IN): Investigates cybersecurity events or crimes related to information technology (IT) systems, networks, and digital evidence.
+
+- Cyber Investigation (INV) Applies tactics, techniques, and procedures for a full range of investigative tools and processes to include, but not limited to, interview and interrogation techniques, surveillance, counter surveillance, and surveillance detection, and appropriately balances the benefits of prosecution versus intelligence gathering.
+
+- Digital Forensics (FOR) Collects, processes, preserves, analyzes, and presents computer-related evidence in support of network vulnerability mitigation and/or crimina
