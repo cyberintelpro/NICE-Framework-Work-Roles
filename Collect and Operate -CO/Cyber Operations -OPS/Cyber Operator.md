@@ -9,10 +9,8 @@ Category: Collect and Operate (CO)
 Work Role Description: Conducts collection, processing, and/or geolocation of systems to exploit, locate, and/or track targets of interest. Performs network navigation, tactical forensic analysis, and, when directed, executing on-net operations.
 
 Tasks:
-
-T0566: Analyze internal operational architecture, tools, and procedures for ways to improve performance.
-
-T0567: Analyze target operational architecture for ways to gain access.
+- T0566: Analyze internal operational architecture, tools, and procedures for ways to improve performance.
+- T0567: Analyze target operational architecture for ways to gain access.
 T0598: Collaborate with development organizations to create and deploy the tools needed to achieve objectives.
 T0609: Conduct access enabling of wireless computer and digital networks.
 T0610: Conduct collection and processing of wireless computer and digital networks.
