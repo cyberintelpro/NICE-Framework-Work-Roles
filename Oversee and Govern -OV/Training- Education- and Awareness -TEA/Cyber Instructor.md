@@ -77,10 +77,39 @@ Knowledge:
 
 
 Skills:
-
-S0001, S0004, S0006, S0051, S0052, S0053, S0055, S0056, S0057, S0060, S0064,
-S0070, S0073, S0075, S0076, S0081, S0084, S0097, S0098, S0100, S0101, S0121,
-S0131, S0156, S0184, S0270, S0271, S0281, S0293, S0301, S0356, S0358
+- S0001 Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+- S0004 Skill in analyzing network traffic capacity and performance characteristics.
+- S0006 Skill in applying confidentiality, integrity, and availability principles.
+- S0051 Skill in the use of penetration testing tools and techniques.
+- S0052 Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).
+- S0053 Skill in tuning sensors.
+- S0055 Skill in using knowledge management technologies.
+- S0056 Skill in using network management tools to analyze network traffic patterns (e.g., simple network management protocol).
+- S0057 Skill in using protocol analyzers.
+- S0060 Skill in writing code in a currently supported programming language (e.g., Java, C++).
+- S0064 Skill in developing and executing technical training programs and curricula.
+- S0070 Skill in talking to others to convey information effectively.
+- S0073 Skill in using virtual machines. (e.g., Microsoft Hyper-V, VMWare vSphere, Citrix XenDesktop/Server, Amazon Elastic Compute Cloud, etc.).
+- S0075 Skill in conducting forensic analyses in multiple operating system environments (e.g., mobile device systems).
+- S0076 Skill in configuring and utilizing software-based computer protection tools (e.g., software firewalls, antivirus software, anti-spyware).
+- S0081 Skill in using network analysis tools to identify vulnerabilities. (e.g., fuzzing, nmap, etc.).
+- S0084 Skill in configuring and utilizing network protection components (e.g., Firewalls, VPNs, network intrusion detection systems).
+- S0097 Skill in applying security controls.
+- S0098
+- S0100 Skill in utilizing or developing learning activities (e.g., scenarios, instructional games,
+interactive exercises). 
+- S0101 Skill in utilizing technologies (e.g., SmartBoards, websites, computers, projectors) for instructional purposes. 
+- S0121 Skill in system, network, and OS hardening techniques. (e.g., remove unnecessary services, password policies, network segmentation, enable logging, least privilege, etc.).
+- S0131 Skill in analyzing malware.
+- S0156 Skill in performing packet-level analysis.
+- S0184 Skill in analyzing traffic to identify network devices.
+- S0270 Skill in reverse engineering (e.g., hex editing, binary packaging utilities, debugging, and strings analysis) to identify function and ownership of remote tools.
+ - S0271 Skill in reviewing and editing assessment products.
+ - S0281 Skill in technical writing.
+ - S0293 Skill in using tools, techniques, and procedures to remotely exploit and establish persistence on a target.
+ - S0301 Skill in writing about facts and ideas in a clear, convincing, and organized manner.
+ - S0356 Skill in communicating with all levels of management including Board members (e.g., interpersonal skills, approachability, effective listening skills, appropriate use of style and language for the audience).
+- S0358 Skill to remain aware of evolving technical infrastructures.
 
 Abilities:
 - A0006 Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures.
