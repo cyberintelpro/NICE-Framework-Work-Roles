@@ -83,8 +83,33 @@ S0070, S0073, S0075, S0076, S0081, S0084, S0097, S0098, S0100, S0101, S0121,
 S0131, S0156, S0184, S0270, S0271, S0281, S0293, S0301, S0356, S0358
 
 Abilities:
-
-A0006, A0011, A0012, A0013, A0014, A0015, A0016, A0017, A0018, A0019,
-A0020, A0022, A0023, A0024, A0032, A0055, A0057, A0057, A0058, A0063,
-A0066, A0070, A0083, A0089, A0105, A0106, A0112, A0114, A0118, A0119,
-A0171
+- A0006 Ability to prepare and deliver education and awareness briefings to ensure that systems, network, and data users are aware of and adhere to systems security policies and procedures.
+- A0011 Ability to answer questions in a clear and concise manner.
+- A0012 Ability to ask clarifying questions.
+- A0013 Ability to communicate complex information, concepts, or ideas in a confident and wellorganized manner through verbal, written, and/or visual means.
+- A0014 Ability to communicate effectively when writing.
+- A0015 Ability to conduct vulnerability scans and recognize vulnerabilities in security systems.
+- A0016 Ability to facilitate small group discussions.
+- A0017 Ability to gauge learner understanding and knowledge level.
+- A0018 Ability to prepare and present briefings.
+- A0019 Ability to produce technical documentation.
+- A0020 Ability to provide effective feedback to students for improving learning.
+- A0022 Ability to apply principles of adult learning.
+- A0023 Ability to design valid and reliable assessments.
+- A0024 Ability to develop clear directions and instructional materials.
+- A0032 Ability to develop curriculum for use within a virtual environment.
+- A0055 Ability to operate common network tools (e.g., ping, traceroute, nslookup).
+- A0057 Ability to tailor curriculum that speaks to the topic at the appropriate level for the target audience
+- A0058 Ability to execute OS command line (e.g., ipconfig, netstat, dir, nbtstat).
+- A0063 Ability to operate different electronic communication systems and methods (e.g., e-mail, VOIP, IM, web forums, Direct Video Broadcasts).
+- A0066 Ability to accurately and completely source all data used in intelligence, assessment and/or planning products.
+- A0070 Ability to apply critical reading/thinking skills.
+- A0083 Ability to evaluate information for reliability, validity, and relevance.
+- A0089 Ability to function in a collaborative environment, seeking continuous consultation with other analysts and experts—both internal and external to the organization—to leverage analytical and technical expertise.
+- A0105 Ability to tailor technical and planning information to a customer’s level of understanding.
+- A0106 Ability to think critically.
+- A0112 Ability to monitor advancements in information privacy technologies to ensure organizational adaptation and compliance.
+- A0114 Ability to develop or procure curriculum that speaks to the topic at the appropriate level for the target.
+- A0118 Ability to understand technology, management, and leadership issues related to organization processes and problem solving.
+- A0119 Ability to understand the basic concepts and issues related to cyber and its organizational impact.
+- A0171 Ability to conduct training and education needs assessment.
