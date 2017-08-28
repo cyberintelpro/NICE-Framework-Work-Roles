@@ -83,7 +83,7 @@ Provides leadership, management, direction, or development and advocacy so the o
 
 	- [Cyber Instructional Curriculum Developer (OV-TEA-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Oversee%20and%20Govern%20-OV/Training-%20Education-%20and%20Awareness%20-TEA/Cyber%20Instructional%20Curriculum%20Developer.md): Develops, plans, coordinates, and evaluates cyber training/education courses, methods, and techniques based on instructional needs.
 	
-	- Cyber Instructor OV-TEA-002 Develops and conducts training or education of personnel within cyber domain. 
+	- [Cyber Instructor (OV-TEA-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Oversee%20and%20Govern%20-OV/Training-%20Education-%20and%20Awareness%20-TEA/Cyber%20Instructor.md): Develops and conducts training or education of personnel within cyber domain. 
 
 - Cybersecurity Management (MGT): Oversees the cybersecurity program of an information system or network, including managing information security implications within the organization, specific program, or other area of responsibility, to include strategic, personnel, infrastructure, requirements, policy enforcement, emergency planning, security awareness, and other resources.
 
