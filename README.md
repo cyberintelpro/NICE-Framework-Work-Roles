@@ -64,13 +64,27 @@ Performs highly-specialized review and evaluation of incoming cybersecurity info
 
 - Threat Analysis (TWA): Identifies and assesses the capabilities and activities of cybersecurity criminals or foreign intelligence entities; produces findings to help initialize or support law enforcement and counterintelligence investigations or activities.
 
+  - [Threat/Warning Analyst (AN-TWA-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/Threat%20Analysis%20-TWA/Threat%20Warning%20Analyst.md): Develops cyber indicators to maintain awareness of the status of the highly dynamic operating environment. Collects, processes, analyzes, and disseminates cyber threat/warning assessments.
+
 - Exploitation Analysis (EXP): Analyzes collected information to identify vulnerabilities and potential for exploitation.
+  
+  - [Exploitation Analyst (AN-EXP-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/Exploitation%20Analysis%20-EXP/Exploitation%20Analyst.md) Collaborates to identify access and collection gaps that can be satisfied through cyber collection and/or preparation activities. Leverages all authorized resources and analytic techniques to penetrate targeted networks.
 
 - All-Source Analysis (ASA) Analyzes threat information from multiple sources, disciplines, and agencies across the Intelligence Community. Synthesizes and places intelligence information in context; draws insights about the possible implications.
 
+  - [All-Source Analyst (AN-ASA-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/All-Source%20Analysis%20-ASA/All-Source%20Analyst.md): Analyzes data/information from one or multiple sources to conduct preparation of the environment, respond to requests for information, and submit intelligence collection and production requirements in support of planning and operations.
+
+  - [Mission Assessment Specialist (AN-ASA-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/All-Source%20Analysis%20-ASA/Mission%20Assessment%20Specialist.md): Develops assessment plans and measures of performance/effectiveness. Conducts strategic and operational effectiveness assessments as required for cyber events. Determines whether systems performed as expected and provides input to the determination of operational effectiveness.
+
 - Targets (TGT) Applies current knowledge of one or more regions, countries, non-state entities, and/or technologies.
+  
+  - [Target Developer (AN-TGT-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/Targets%20-TGT/Target%20Developer.md): Performs target system analysis, builds and/or maintains electronic target folders to include inputs from environment preparation, and/or internal or external intelligence sources. Coordinates with partner target activities and intelligence organizations, and presents candidate targets for vetting and validation.
+
+  - [Target Network Analyst (AN-TGT-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/Targets%20-TGT/Target%20Network%20Analyst.md): Conducts advanced analysis of collection and opensource data to ensure target continuity; to profile targets and their activities; and develop techniques to gain more target information. Determines how targets communicate, move, operate and live based on knowledge of target technologies, digital networks, and the applications on them.
 
 - Language Analysis (LNG) Applies language, cultural, and technical expertise to support information collection, analysis, and other cybersecurity activities.
+
+  - [Multi-Disciplined Language Analyst (AN-LNG-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Analyze%20-AN/Language%20Analysis%20-LNG/Multi-Disciplined%20Language%20Analyst.md): Applies language and culture expertise with target/threat and technical knowledge to process, analyze, and/or disseminate intelligence information derived from language, voice and/or graphic material. Creates and maintains language-specific databases and working aids to support cyber action execution and ensure critical knowledge sharing. Provides subject matter expertise in foreign language-intensive or interdisciplinary projects. 
 
 ## Collect and Operate (CO):
 Provides specialized denial and deception operations and collection of cybersecurity information that may be used to develop intelligence.
