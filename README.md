@@ -1,5 +1,7 @@
 # NICE Framework Workforce Categories, Specialty Areas, and Work Roles
 
+From [NIST Special Publication 800-181, National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181.pdf?trackDocs=NIST.SP.800-181.pdf)
+
 ## Securely Provision (SP): 
 Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
 
