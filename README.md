@@ -5,10 +5,10 @@ Conceptualizes, designs, procures, and/or builds secure information technology (
 
 - Risk Management (RSK) Oversees, evaluates, and supports the documentation, validation, assessment, and authorization processes necessary to assure that existing and new information technology (IT) systems meet the organization's cybersecurity and risk requirements. Ensures appropriate treatment of risk, compliance, and assurance from internal and external perspectives.
 
-  - [Authorizing Official/Designating Representative (SP-RSK-001)](): Senior official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation
+  - [Authorizing Official/Designating Representative (SP-RSK-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Risk%20Management%20-RSK/Authorizing%20Official.md): Senior official or executive with the authority to formally assume responsibility for operating an information system at an acceptable level of risk to organizational operations (including mission, functions, image, or reputation), organizational assets, individuals, other organizations, and the Nation
 (CNSSI 4009).
 
-  - Security Control Assessor (SP-RSK-002): Conducts independent comprehensive assessments of the management, operational, and technical security controls and control enhancements employed within or inherited by an information technology (IT) system to determine the overall effectiveness of the controls (as defined in NIST SP 800-37). 
+  - [Security Control Assessor (SP-RSK-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Securely%20Provision%20-SP/Risk%20Management%20-RSK/Security%20Control%20Assessor.md): Conducts independent comprehensive assessments of the management, operational, and technical security controls and control enhancements employed within or inherited by an information technology (IT) system to determine the overall effectiveness of the controls (as defined in NIST SP 800-37). 
 
 - Software Development (DEV): Develops and writes/codes new (or modifies existing) computer applications, software, or specialized utility programs following software assurance best practices.
 
