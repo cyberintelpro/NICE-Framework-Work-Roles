@@ -2,7 +2,7 @@
 NICE Framework Work Roles
 
 
-NICE Framework Workforce Categories and Specialty Areas
+NICE Framework Workforce Categories, Specialty Areas, and Work Roles
 
 Securely Provision (SP): Conceptualizes, designs, procures, and/or builds secure information technology (IT) systems, with responsibility for aspects of system and/or network development.
 
@@ -35,9 +35,22 @@ Collect and Operate (CO): Provides specialized denial and deception operations a
 
 - Collection Operations (CLO): Executes collection using appropriate strategies and within the priorities established through the collection management process. 
 
+  - [All Source-Collection Manager (CO-CLO-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Collection%20Operations%20-CLO/All%20Source-Collection%20Manager.md): Identifies collection authorities and environment; incorporates priority information requirements into collection management; develops concepts to meet leadership's intent. Determines capabilities of available collection assets, identifies new collection capabilities; and constructs and disseminates collection plans. Monitors execution of tasked collection to ensure effective execution of the collection plan.
+  
+  - [All Source-Collection Requirements Manager (CO-CLO-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Collection%20Operations%20-CLO/All%20Source-Collection%20Requirements%20Manager.md): Evaluates collection operations and develops effectsbased collection requirements strategies using available sources and methods to improve collection. Develops, processes, validates, and coordinates submission of collection requirements. Evaluates performance of collection assets and collection operations.
+
 - Cyber Operational Planning (OPL): Performs in-depth joint targeting and cybersecurity planning process. Gathers information and develops detailed Operational Plans and Orders supporting requirements. Conducts strategic and operational-level planning across the full range of operations for integrated information and cyberspace operations.
 
+  - [Cyber Intel Planner (CO-OPL-001)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Cyber%20Operational%20Planning%20-OPL/Cyber%20Intel%20Planner.md):  Develops detailed intelligence plans to satisfy cyber operations requirements. Collaborates with cyber operations planners to identify, validate, and levy requirements for collection and analysis. Participates in targeting selection, validation, synchronization, and execution of cyber actions. Synchronizes intelligence activities to support organization objectives in cyberspace.
+
+  - [Cyber Ops Planner (CO-OPL-002)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Cyber%20Operational%20Planning%20-OPL/Cyber%20Ops%20Planner.md): Develops detailed plans for the conduct or support of the applicable range of cyber operations through collaboration with other planners, operators and/or analysts. Participates in targeting selection, validation, synchronization, and enables integration during the execution of cyber actions.
+
+  - [Partner Integration Planner (CO-OPL-003)](https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Cyber%20Operational%20Planning%20-OPL/Partner%20Integration%20Planner.md): Works to advance cooperation across organizational or national borders between cyber operations partners. Aids the integration of partner cyber teams by providing guidance, resources, and collaboration to
+develop best practices and facilitate organizational support for achieving objectives in integrated cyber actions
+
 - Cyber Operations (OPS): Performs activities to gather evidence on criminal or foreign intelligence entities to mitigate possible or real-time threats, protect against espionage or insider threats, foreign sabotage, international terrorist activities, or to support other intelligence activities.
+  
+  - [Cyber Operator (CO-OPS-001)[https://github.com/cyberintelpro/NICE-Framework-Work-Roles/blob/master/Collect%20and%20Operate%20-CO/Cyber%20Operations%20-OPS/Cyber%20Operator.md]: Conducts collection, processing, and/or geolocation of systems to exploit, locate, and/or track targets of interest. Performs network navigation, tactical forensic analysis, and, when directed, executes on-net operations.
 
 Investigate (IN): Investigates cybersecurity events or crimes related to information technology (IT) systems, networks, and digital evidence.
 
